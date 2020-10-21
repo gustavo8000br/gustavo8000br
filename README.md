@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello there
+___
 
-<!--
-**gustavo8000br/gustavo8000br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Detailed information
 
-Here are some ideas to get you started:
+* **Name**: Gustavo Mathias Rocha
+* **Age**: 26
+* **Living in**: São Paulo, Brazil
+* **Stack**: React - SQL - AWS - (more stacks is missing, will be added in future)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+### This ``README.MD`` is under construction
