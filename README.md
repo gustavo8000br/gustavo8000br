@@ -18,6 +18,6 @@ ___
 ___
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/gustavo8000br/gustavo8000br/blob/master/github-metrics.svg)
+![Metrics](https://github.com/gustavo8000br/gustavo8000br/blob/main/github-metrics.svg)
 
 ### This ``README.MD`` is under construction
