@@ -4,7 +4,7 @@ ___
 ## Detailed information
 
 * **Name**: Gustavo Mathias Rocha
-* **Age**: 26
+* **Age**: 27
 * **Living in**: Santa Catarina, Brazil
 * **Stack**: React - SQL - AWS - (more stacks is missing, will be added in future)
 
