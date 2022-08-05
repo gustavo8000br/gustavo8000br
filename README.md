@@ -5,14 +5,16 @@ ___
 
 * **Name**: Gustavo Mathias Rocha
 * **Age**: 27
-* **Living in**: Santa Catarina, Brazil
-* **Stack**: React - SQL - AWS - (more stacks is missing, will be added in future)
+* **Living in**: São Paulo, Brazil
+* **Languages**: Brazilian Portuguese - English
+* **Stack**: PHP - HTML - JavaScript - C# - TypeScript - React JS - Angular v2+ - SQL - AWS - (more stacks is missing, will be added in future)
 
 ___
 
 ## Projects
 
 * **Dockeiro**: This is a visionary project, for dockerizing many others 3th party projects.
+* **Vimeo Video Downloader**: Is a Google Chrome extension for download any video from vimeo in any site. Builded with Angular.
 ___
 
 <!-- If you're using "master" as default branch -->
