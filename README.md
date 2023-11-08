@@ -4,10 +4,11 @@ ___
 ## Detailed information
 
 * **Name**: Gustavo Mathias Rocha
-* **Age**: 28
-* **Living in**: Campinas, São Paulo, Brazil
+* **Age**: 29
+* **Living in**: Jaraguá do Sul, Santa Catarina, Brazil
 * **Languages**: Brazilian Portuguese - English
-* **Stack**: PHP - HTML - JavaScript - C# - TypeScript - React JS - Angular v2+ - SQL - AWS - (more stacks is missing, will be added in future)
+* **Education**: Computer science
+* **Stack**: C# - PHP - HTML - JavaScript - TypeScript - React JS - Next.JS - Angular v2+ - SQL - AWS
 
 ___
 
