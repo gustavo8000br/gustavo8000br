@@ -1,24 +1,42 @@
-## Hello there
-___
+## 👋 Hello there!
 
-## Detailed information
+Sou o Gustavo Mathias Rocha — desenvolvedor apaixonado por resolver problemas reais com código criativo e prático. Trabalho com várias stacks modernas, curto inovação, e adoro construir coisas que realmente funcionam.
 
-* **Name**: Gustavo Mathias Rocha
-* **Age**: 29
-* **Living in**: São Paulo, Brazil
-* **Languages**: Brazilian Portuguese - English
-* **Education**: Computer science
-* **Stack**: C# - PHP - HTML - JavaScript - TypeScript - React JS - Next.JS - Angular v2+ - SQL - AWS
+---
 
-___
+## 📋 Sobre mim
 
-## Projects
+- **👤 Nome**: Gustavo Mathias Rocha  
+- **📍 Local**: São Paulo, Brasil  
+- **🌎 Idiomas**: Português (nativo), Inglês (intermediário/avançado)  
+- **🎓 Formação**: Ciência da Computação (incompleta, mas com MUITA prática)  
+- **💻 Stack**:  
+  `C#` · `PHP` · `HTML` · `JavaScript` · `TypeScript`  
+  `React` · `Next.js` · `Angular (v2+)` · `SQL` · `AWS`
 
-* **[Dockeiro](https://github.com/dockeiro)**: This is a visionary project, for dockerizing many others 3th party projects.
-* **[Vimeo Video Downloader](https://github.com/gustavo8000br/video-downloader)**: Is a Google Chrome extension for download any video from vimeo in any site. Builded with Angular.
-___
+---
 
-<!-- If you're using "master" as default branch -->
+## 🚀 Projetos em Destaque
+
+### 🐳 [Dockeiro](https://github.com/dockeiro)
+> Projeto visionário que visa dockerizar uma variedade de projetos de terceiros. Automatiza configurações e facilita a escalabilidade. Um “Docker Hub” pessoal, com toque de magia.
+
+**Tecnologias:** Docker · Shell Script · GitHub Actions
+
+---
+
+### 📽️ [Vimeo Video Downloader](https://github.com/gustavo8000br/video-downloader)
+> Extensão para Google Chrome que permite baixar vídeos do Vimeo em qualquer site. Construída com Angular, é uma solução simples pra um problema comum.
+
+**Tecnologias:** Angular · TypeScript · Chrome APIs
+
+---
+
+## 📊 GitHub Metrics
+
 ![Metrics](https://github.com/gustavo8000br/gustavo8000br/blob/main/github-metrics.svg)
 
-### This ``README.MD`` is under construction
+---
+
+### 🛠️ Em construção...
+Esse `README.md` está sempre evoluindo — assim como eu.
