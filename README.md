@@ -1,42 +1,38 @@
-## 👋 Hello there!
+# 👋 Olá! Eu sou o Gustavo Mathias Rocha
 
-Sou o Gustavo Mathias Rocha — desenvolvedor apaixonado por resolver problemas reais com código criativo e prático. Trabalho com várias stacks modernas, curto inovação, e adoro construir coisas que realmente funcionam.
+Sou um desenvolvedor apaixonado por resolver problemas reais com código prático e funcional. Gosto de aprender na prática, explorar stacks modernas e construir projetos que fazem diferença — seja na web, na automação ou na manutenção de sistemas físicos e digitais.
 
----
+## 🚀 Sobre mim
 
-## 📋 Sobre mim
+* 📍 Local: São Paulo – Brasil
 
-- **👤 Nome**: Gustavo Mathias Rocha  
-- **📍 Local**: São Paulo, Brasil  
-- **🌎 Idiomas**: Português (nativo), Inglês (intermediário/avançado)  
-- **🎓 Formação**: Ciência da Computação (incompleta, mas com MUITA prática)  
-- **💻 Stack**:  
-  `C#` · `PHP` · `HTML` · `JavaScript` · `TypeScript`  
-  `React` · `Next.js` · `Angular (v2+)` · `SQL` · `AWS`
+* 💻 Stack: `C#`, `PHP`, `HTML`, `JavaScript`, `TypeScript`
+  Frameworks: `React`, `Next.js`, `Angular (v2+)`
 
----
+* 🛠️ DevOps & Ferramentas: Docker, GitHub Actions, Shell Script, AWS, TortoiseGit
 
-## 🚀 Projetos em Destaque
+* 📦 Outros: Kernel Android, Roteadores, Uboot, Manutenção de hardware e eletrônica
 
-### 🐳 [Dockeiro](https://github.com/dockeiro)
-> Projeto visionário que visa dockerizar uma variedade de projetos de terceiros. Automatiza configurações e facilita a escalabilidade. Um “Docker Hub” pessoal, com toque de magia.
+* 🎓 Formação: Ciência da Computação (2 semestres), Eng. da Computação (0.5), Front-End (Origamid - em andamento)
 
-**Tecnologias:** Docker · Shell Script · GitHub Actions
+## 🧪 Projetos em Destaque
 
----
+### ⚙️ Dockeiro
 
-### 📽️ [Vimeo Video Downloader](https://github.com/gustavo8000br/video-downloader)
-> Extensão para Google Chrome que permite baixar vídeos do Vimeo em qualquer site. Construída com Angular, é uma solução simples pra um problema comum.
+Ferramenta para automatizar a dockerização de projetos de terceiros. Serve como um "Docker Hub" pessoal. Utiliza Docker, Shell Script e GitHub Actions. [Ver no GitHub](https://github.com/gustavo8000br/dockeiro)
 
-**Tecnologias:** Angular · TypeScript · Chrome APIs
+### 📹 Vimeo Video Downloader
 
----
+Extensão para Google Chrome que permite baixar vídeos do Vimeo direto de qualquer site. Desenvolvida com Angular + TypeScript + Chrome APIs. [Ver no GitHub](https://github.com/gustavo8000br/video-downloader)
 
-## 📊 GitHub Metrics
+### 🎶 GoLedger Challenge Web
 
-![Metrics](https://github.com/gustavo8000br/gustavo8000br/blob/main/github-metrics.svg)
+Interface front-end para um sistema blockchain (CRUD de artistas, músicas, playlists). Feito com React. [Ver no GitHub](https://github.com/gustavo8000br/goledger-challenge-web)
 
----
+## 📫 Contato
 
-### 🛠️ Em construção...
-Esse `README.md` está sempre evoluindo — assim como eu.
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo8000br/)
+* Email: [gustavo.mathias.dev@gmail.com](mailto:gustavo.mathias.dev@gmail.com)
+* GitHub: [github.com/gustavo8000br](https://github.com/gustavo8000br)
+
+> Esse README está sempre evoluindo — assim como eu.
